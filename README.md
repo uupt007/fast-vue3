@@ -482,15 +482,6 @@ git clone -b template https://github.com/tobe-fe-dalao/fast-vue3.git
 - 更详细的配置手册:https://juejin.cn/post/7036745610954801166
 - vu3 写组件实践案例:https://juejin.cn/post/7052717075168493598
 
-# 贡献者
-
-这个项目的存在要感谢所有做出贡献的人。
-
-并感谢我们所有的支持者! 🙏
-
-<a href="https://github.com/study-vue3/fast-vue3/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=study-vue3/fast-vue3" />
-</a>
 
 # 最后
 
